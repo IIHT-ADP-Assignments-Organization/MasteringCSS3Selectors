@@ -1,0 +1,3 @@
+<Title>CSS2 Attribute Selectors<\Title>
+
+<!-- Change the background  color based on the value of the "data-type" attribute. There are multiple values, hyphen separated for the "data-type" attribute. The background color is black for accessible, yellow for large, white for light values of the attribute.  The font size should be 3em for large. -->

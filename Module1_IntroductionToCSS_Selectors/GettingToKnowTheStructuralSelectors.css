@@ -1,0 +1,15 @@
+<Title>Getting to Know the Structural Selectors
+Comparing Between only-child and only-of-type
+<\Title>
+
+<!-- "Display the 1st item in the list in bold.
+Change the background color to yellow and text color to red for the only child of span.
+ -->
+
+<!-- Display the first and last time in the list as bold, 3rd and 6th element in Italic.
+Change the background color to yellow and text color to red for the only child of span.
+ -->
+<!--Display the first and last time in the list as bold, 3rd and 6th element in Italic.
+Change the background color of the list times which is 2nd from the last to yellow.
+Change the background color to yellow and text color to red for the only child of span.
+-->
